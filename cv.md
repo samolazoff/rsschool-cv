@@ -1,4 +1,4 @@
-#Roman Samolazov
+# Roman Samolazov
 
 ----
 
@@ -10,7 +10,7 @@
 
 ----
 
-###SUMMARY
+### SUMMARY
 
 Eperience in adaptive layout, experience in creating an HTML page for a website based on design layouts, knowledge of CSS frameworks, knowledge of cross-browser layout, knowledge of PhotoShop.
 
@@ -20,7 +20,7 @@ Hardworking, responsible, independent, proactive, stress-resistant, energetic, t
 
 ----
 
-###DEVELOPMENT PLATFORMS, TECHNOLOGIES AND TOOLS
+### DEVELOPMENT PLATFORMS, TECHNOLOGIES AND TOOLS
 
 - Languages:	HTML/PUG, CSS3/SASS (Grid Layout, Flexbox), JS (basics)/DOM;
 - Frameworks:	Twitter Bootstrap;
@@ -30,20 +30,20 @@ Hardworking, responsible, independent, proactive, stress-resistant, energetic, t
 
 -----
 
-###SELECTED PROJECTS
+### SELECTED PROJECTS
 
 https://github.com/samolazoff
 
 -----
 
-###EDUCATION
+### EDUCATION
 
 - Belarusian-Russian University (Physical control methods) 2013;
 - Stormnet 2019 
 
 ------
 
-###LANGUAGES
+### LANGUAGES
 
 - English  - Elementary;
 - Russian - Native
