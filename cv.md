@@ -38,7 +38,7 @@ https://github.com/samolazoff
 
 ###EDUCATION
 
-- Belarusian-Russian University 2013 (Physical control methods);
+- Belarusian-Russian University (Physical control methods) 2013;
 - Stormnet 2019 
 
 ------
