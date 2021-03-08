@@ -1,0 +1,49 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+.wrap{
+    max-width: 1200px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: lightblue;
+}
+h1{
+    color: blue;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: flex-start;
+}
+.name{
+    margin-bottom: 5px;
+    color: goldenrod;
+}
+h2,
+h3,
+.subtitle{
+    color: green;
+    text-transform: uppercase;
+}
+.about{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    width: 40%;
+    margin-right: 50px;
+}
+h3{
+    align-self: flex-start;
+
+}
+.about{
+    padding-right: 50px;
+    border-right-color: green;
+    border-right-style: solid;
+    border-right-width: 4px;
+}
