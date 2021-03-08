@@ -3,47 +3,99 @@ body{
     flex-direction: column;
     justify-content: start;
     align-items: center;
+    margin: 0;
+    padding: 0;
 }
 .wrap{
+    padding: 25px;
     max-width: 1200px;
-    padding-left: 20px;
-    padding-right: 20px;
-    background-color: lightblue;
-}
-h1{
-    color: blue;
+    background-color: #B2EBF2;
 }
 .content{
     display: flex;
     flex-direction: row;
     justify-content: start;
     align-items: flex-start;
+    padding: 50px;
+    border-bottom-color: #43A047;
+    border-bottom-style: solid;
+    border-bottom-width: 4px;
 }
-.name{
-    margin-bottom: 5px;
-    color: goldenrod;
-}
-h2,
-h3,
-.subtitle{
-    color: green;
-    text-transform: uppercase;
-}
-.about{
+.flex-col{
     display: flex;
     flex-direction: column;
     justify-content: start;
     align-items: center;
-    width: 40%;
-    margin-right: 50px;
-}
-h3{
-    align-self: flex-start;
-
 }
 .about{
     padding-right: 50px;
-    border-right-color: green;
+    border-right-color: #43A047;
     border-right-style: solid;
     border-right-width: 4px;
+}
+.about,
+.skils{
+    width: 48%;
+}
+article{
+    width: 100%;
+    margin: 10px;
+    padding-bottom: 10px;
+}
+.b-name__title{
+    margin-bottom: 5px;
+    font-size: 30px;
+    color: #FFA000;
+}
+.b-name__subtitle{
+    margin: 0;
+    font-size: 20px;
+    font-weight: 300;
+    color: #43A047;
+}
+.b-name__subtitle,
+.title{
+    text-transform: uppercase;
+}
+.title{
+    font-size: 25px;
+    color: #039BE5;
+}
+.text{
+    padding: 0;
+    text-align: justify;
+    font-size: 20px;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    align-self: flex-start;
+}
+li{
+    padding-bottom: 5px;
+}
+.skils{
+    margin-left: 50px;
+}
+.skils .tech .title{
+    width: 76%;
+}
+.text_bold{
+    font-weight: 700;
+}
+.proj .text{
+   align-self: flex-start;
+}
+.page-footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 50px;
+    width: 100%;
+    height: 50px;
+}
+.page-footer a{
+    text-decoration: none;
+    font-size: 20px;
 }
